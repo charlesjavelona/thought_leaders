@@ -25,6 +25,7 @@ A place to list people who are good to follow because of their work and content.
  - 1.) Matt Cuts, Head of Google Spam Team, has good content on SEO
  - 2.) Rand Fishkin, Founder of Moz
  - 3.) Danny Sullivan, been writing SEO since 1996
+ - 4.) Dharmesh Shah, Founder of Hubpsot
 
 
 
